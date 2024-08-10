@@ -1,6 +1,6 @@
 # Olympic Medals Prediction Model
 
-This project Linear Regression for predicting the number of medals a country will win at the Olympics based on historical data.
+This project uses Linear Regression for predicting the number of medals a country will win at the Olympics based on historical data.
 
 ## Project Overview
 
